@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author WIN 10
+ * @author Rifqi
  */
 public class DatabaseConnection {
     public static Connection getConnection(String host, String port, String username, String password, String db) {
