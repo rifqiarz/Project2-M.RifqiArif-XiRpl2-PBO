@@ -13,10 +13,7 @@ import java.sql.Statement;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author WIN 10
- */
+
 public class DataSiswa extends javax.swing.JFrame {
 
     /**
